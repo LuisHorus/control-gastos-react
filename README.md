@@ -12,9 +12,9 @@ En este proyecto realizado con la ayuda del curso de Udemy del profesor **codigo
 - react-circular-progressbar
 
 ---
-##Imagene Incio
+## Imagene Incio
 ![Pagina de Inicio](/src/img/capturas/inicio.png)
-##Imagen con Presupuesto y Gastos
+## Imagen con Presupuesto y Gastos
 ![Pagina de presupuesto](/src/img/capturas/gastos.png)
 
 
